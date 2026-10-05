@@ -1,0 +1,6 @@
+fr24sdk
+psycopg[binary]
+requests
+python-dotenv
+openpyxl
+shapely

@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- project specific ---
+.env.*
+!.env.example
+state/
+state_*/
+backfill_to_prod.sql
+.DS_Store
